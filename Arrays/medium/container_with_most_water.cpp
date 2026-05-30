@@ -28,7 +28,7 @@ public:
 };
 int main()
 {
-    vector<int> height = {1,8,6,2,5,4,8,3,7};
+    vector<int> height = {7,8,6,2,5,1,8,7,10,10};
     Solution obj;
     cout << obj.maxArea(height);
     return 0;
