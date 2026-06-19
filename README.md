@@ -1,1 +1,1 @@
-practicing dsa programs using cpp. (using Python & c++)
+practicing dsa programs. (using Python & c++)
