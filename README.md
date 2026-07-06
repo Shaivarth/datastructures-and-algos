@@ -1,1 +1,1 @@
-practicing dsa programs. (using Python & c++)
+solving dsa problems and sharing solutions
